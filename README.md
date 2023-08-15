@@ -22,4 +22,7 @@ checkpoints
 - model_evaluation.p
 ```
 
-If these are set properly, you should be able to run `solution.ipynb` in Colab.
+If these are set properly, you should be able to run `solution.ipynb` in Colab with the current args set.
+
+If you want to run the training yourself, or modify filepaths, you will need to download the notebook
+and modify some of the variables (CKPT_PATH, TRAIN, etc.). You will also need a high-RAM GPU.
