@@ -21,6 +21,7 @@ checkpoints
 - valid_losses.p
 - model_evaluation.p
 ```
+To get the files, please contact me at raj.singh@rajdoesml.com
 
 If these are set properly, you should be able to run `solution.ipynb` in Colab with the current args set.
 
